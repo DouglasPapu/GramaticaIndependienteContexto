@@ -1,7 +1,0 @@
-S : bDD | Ca | bc
-A : B | aCC | baD
-B : cBD | e | AC
-C : bD | aBA
-D : CD | a | EF
-E : Eb
-F : a

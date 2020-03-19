@@ -1,5 +1,0 @@
-S : aAB
-A : BAb | % | B
-B : a | b | CD
-C : ba
-D : DD
