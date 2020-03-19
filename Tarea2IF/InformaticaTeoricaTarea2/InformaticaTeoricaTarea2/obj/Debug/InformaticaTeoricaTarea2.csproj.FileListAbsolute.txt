@@ -1,0 +1,11 @@
+C:\Users\Douglas\Source\Repos\InformaticaTeoricaTarea2\InformaticaTeoricaTarea2\bin\Debug\InformaticaTeoricaTarea2.exe.config
+C:\Users\Douglas\Source\Repos\InformaticaTeoricaTarea2\InformaticaTeoricaTarea2\bin\Debug\InformaticaTeoricaTarea2.exe
+C:\Users\Douglas\Source\Repos\InformaticaTeoricaTarea2\InformaticaTeoricaTarea2\bin\Debug\InformaticaTeoricaTarea2.pdb
+C:\Users\Douglas\Source\Repos\InformaticaTeoricaTarea2\InformaticaTeoricaTarea2\obj\Debug\InformaticaTeoricaTarea2.csprojAssemblyReference.cache
+C:\Users\Douglas\Source\Repos\InformaticaTeoricaTarea2\InformaticaTeoricaTarea2\obj\Debug\InformaticaTeoricaTarea2.Properties.Resources.resources
+C:\Users\Douglas\Source\Repos\InformaticaTeoricaTarea2\InformaticaTeoricaTarea2\obj\Debug\InformaticaTeoricaTarea2.csproj.GenerateResource.cache
+C:\Users\Douglas\Source\Repos\InformaticaTeoricaTarea2\InformaticaTeoricaTarea2\obj\Debug\InformaticaTeoricaTarea2.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\Source\Repos\InformaticaTeoricaTarea2\InformaticaTeoricaTarea2\obj\Debug\InformaticaTeoricaTarea2.exe
+C:\Users\Douglas\Source\Repos\InformaticaTeoricaTarea2\InformaticaTeoricaTarea2\obj\Debug\InformaticaTeoricaTarea2.pdb
+C:\Users\Douglas\Source\Repos\InformaticaTeoricaTarea2\InformaticaTeoricaTarea2\obj\Debug\InformaticaTeoricaTarea2.FNC.resources
+C:\Users\Douglas\Source\Repos\InformaticaTeoricaTarea2\InformaticaTeoricaTarea2\bin\Debug\InformaticaTeoricaTarea2.xml
